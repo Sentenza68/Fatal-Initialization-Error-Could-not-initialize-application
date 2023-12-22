@@ -1,0 +1,169 @@
+Closing DownloadServiceListener
+Waiting for exception dialog to be closed
+JNLPRuntime,exit()
+Launch exception
+netx: Initialization Error: Could not initialize application. (Fatal: Initialization Error: Unknown Main-Class. Could not determine the main class for this application.)
+HandleLaunchError Sbow BasicExceptionDialog Fatal: Initialization Error: Could not initialize application. The application has not been initialized, for more information execute javaws from the command line.
+No local file found for http://10.0.0.1/craft/OME/release/ome12850aa01_omeUFirefly.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/ome12850aa01_omeUFirefly.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/OME/release/ome12850aa01_omeUFirefly.jar
+Activate jar: http://10.0.0.1/craft/OME/release/ome12850aa01_omeUFirefly.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/OME/release/ome12850aa01_omeUFirefly.jar -> http://10.0.0.1/craft/OME/release/ome12850aa01_omeUFirefly.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/ome12850aa01_omeUFirefly.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/OME/release/ome12850aa01_omeUFirefly.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/ome12850aa01_omeUFirefly.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/OME/release/ome12850aa01_omedefaultDescription.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/ome12850aa01_omedefaultDescription.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/OME/release/ome12850aa01_omedefaultDescription.jar
+Activate jar: http://10.0.0.1/craft/OME/release/ome12850aa01_omedefaultDescription.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/OME/release/ome12850aa01_omedefaultDescription.jar -> http://10.0.0.1/craft/OME/release/ome12850aa01_omedefaultDescription.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/ome12850aa01_omedefaultDescription.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/OME/release/ome12850aa01_omedefaultDescription.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/ome12850aa01_omedefaultDescription.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/OME/release/gen12850aa01_genRelease.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/gen12850aa01_genRelease.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/OME/release/gen12850aa01_genRelease.jar
+Activate jar: http://10.0.0.1/craft/OME/release/gen12850aa01_genRelease.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/OME/release/gen12850aa01_genRelease.jar -> http://10.0.0.1/craft/OME/release/gen12850aa01_genRelease.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/gen12850aa01_genRelease.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/OME/release/gen12850aa01_genRelease.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/gen12850aa01_genRelease.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/OME/release/gen12850aa01_genLocalize.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/gen12850aa01_genLocalize.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/OME/release/gen12850aa01_genLocalize.jar
+Activate jar: http://10.0.0.1/craft/OME/release/gen12850aa01_genLocalize.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/OME/release/gen12850aa01_genLocalize.jar -> http://10.0.0.1/craft/OME/release/gen12850aa01_genLocalize.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/gen12850aa01_genLocalize.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/OME/release/gen12850aa01_genLocalize.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/OME/release/gen12850aa01_genLocalize.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/base/consolidation.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/consolidation.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/base/consolidation.jar
+Activate jar: http://10.0.0.1/craft/base/consolidation.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/base/consolidation.jar -> http://10.0.0.1/craft/base/consolidation.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/consolidation.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/base/consolidation.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/base/consolidation.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/OME/slat/caturl.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/slat/caturl.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/OME/slat/caturl.jar
+Activate jar: http://10.0.0.1/craft/OME/slat/caturl.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/OME/slat/caturl.jar -> http://10.0.0.1/craft/OME/slat/caturl.jar
+Error flag set for resource 'http://10.0.0.1/craft/OME/slat/caturl.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/OME/slat/caturl.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/OME/slat/caturl.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/HELP/generalhelp.jar
+Error flag set for resource 'http://10.0.0.1/craft/HELP/generalhelp.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/HELP/generalhelp.jar
+Activate jar: http://10.0.0.1/craft/HELP/generalhelp.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/HELP/generalhelp.jar -> http://10.0.0.1/craft/HELP/generalhelp.jar
+Error flag set for resource 'http://10.0.0.1/craft/HELP/generalhelp.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/HELP/generalhelp.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/HELP/generalhelp.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/base/lib/Omgr_lib/desktop.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/Omgr_lib/desktop.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/base/lib/Omgr_lib/desktop.jar
+Activate jar: http://10.0.0.1/craft/base/lib/Omgr_lib/desktop.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/base/lib/Omgr_lib/desktop.jar -> http://10.0.0.1/craft/base/lib/Omgr_lib/desktop.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/Omgr_lib/desktop.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/base/lib/Omgr_lib/desktop.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/Omgr_lib/desktop.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/base/lib/Omgr_lib/AccessControlClient.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/Omgr_lib/AccessControlClient.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/base/lib/Omgr_lib/AccessControlClient.jar
+Activate jar: http://10.0.0.1/craft/base/lib/Omgr_lib/AccessControlClient.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/base/lib/Omgr_lib/AccessControlClient.jar -> http://10.0.0.1/craft/base/lib/Omgr_lib/AccessControlClient.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/Omgr_lib/AccessControlClient.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/base/lib/Omgr_lib/AccessControlClient.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/Omgr_lib/AccessControlClient.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/base/lib/webswing-api.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/webswing-api.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/base/lib/webswing-api.jar
+Activate jar: http://10.0.0.1/craft/base/lib/webswing-api.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/base/lib/webswing-api.jar -> http://10.0.0.1/craft/base/lib/webswing-api.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/webswing-api.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/base/lib/webswing-api.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/webswing-api.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/base/lib/serial.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/serial.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/base/lib/serial.jar
+Activate jar: http://10.0.0.1/craft/base/lib/serial.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/base/lib/serial.jar -> http://10.0.0.1/craft/base/lib/serial.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/serial.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/base/lib/serial.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/serial.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/base/lib/openjfx-dialogs-1.0.2.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/openjfx-dialogs-1.0.2.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/base/lib/openjfx-dialogs-1.0.2.jar
+Activate jar: http://10.0.0.1/craft/base/lib/openjfx-dialogs-1.0.2.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/base/lib/openjfx-dialogs-1.0.2.jar -> http://10.0.0.1/craft/base/lib/openjfx-dialogs-1.0.2.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/openjfx-dialogs-1.0.2.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/base/lib/openjfx-dialogs-1.0.2.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/openjfx-dialogs-1.0.2.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/base/lib/slf4j-nop-1.7.7.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/slf4j-nop-1.7.7.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/base/lib/slf4j-nop-1.7.7.jar
+Activate jar: http://10.0.0.1/craft/base/lib/slf4j-nop-1.7.7.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/base/lib/slf4j-nop-1.7.7.jar -> http://10.0.0.1/craft/base/lib/slf4j-nop-1.7.7.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/slf4j-nop-1.7.7.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
+Download done. Shutting down executor
+DownloadServiceListener for Ciena Site Manager will be created
+Jars not ready to provide attribute Application-Name
+checkForMain JAR http://10.0.0.1/craft/base/lib/slf4j-nop-1.7.7.jar not found. Continuing.
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/slf4j-nop-1.7.7.jar'. Can not return a local file for the resource
+No local file found for http://10.0.0.1/craft/base/lib/slf4j-api-1.7.7.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/slf4j-api-1.7.7.jar'. Can not return a local file for the resource
+Activate native: http://10.0.0.1/craft/base/lib/slf4j-api-1.7.7.jar
+Activate jar: http://10.0.0.1/craft/base/lib/slf4j-api-1.7.7.jar
+CachedJarFileCallback.addMapping : http://10.0.0.1/craft/base/lib/slf4j-api-1.7.7.jar -> http://10.0.0.1/craft/base/lib/slf4j-api-1.7.7.jar
+Error flag set for resource 'http://10.0.0.1/craft/base/lib/slf4j-api-1.7.7.jar'. Can not return a local file for the resource
+DownloadServiceListener will be disposed
